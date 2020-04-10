@@ -1,0 +1,16 @@
+form {
+  max-width: 50%;
+}
+#search-form {
+  color: #7e7373;
+  margin: 0 auto;
+  font-size: 15px;
+}
+#city-input {
+  margin: 0 15px 0 5px;
+  font-size: 15px;
+}
+#search {
+  color: #145ca0;
+  font-size: 15px;
+}

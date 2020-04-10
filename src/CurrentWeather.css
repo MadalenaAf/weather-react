@@ -1,0 +1,34 @@
+h1 {
+  font-size: 30px;
+  color: #407072;
+}
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  color: #7e7373;
+  font-size: 18px;
+}
+.city-weekday {
+  padding: 0 40px;
+}
+li:first-letter {
+  text-transform: uppercase;
+}
+.temperature-units {
+  color: #7e7373;
+  font-size: 15px;
+  position: relative;
+  top: -38px;
+  left: 2px;
+}
+.temperature-value {
+  color: #1e7e81;
+  font-size: 70px;
+}
+
+.icon-today-weather {
+  color: #f1ae3a;
+  font-size: 400%;
+  margin-left: 20px;
+}
